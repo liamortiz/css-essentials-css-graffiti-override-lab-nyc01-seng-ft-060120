@@ -15,3 +15,17 @@ body div#wall #tag-3.slick {
 body #wall #tag-4 {
   background: none;
 }
+
+body div#wall .parent #tag-5.slick {
+  background: none;
+}
+
+body div#wall div.parent div:last-child div#tag-6 {
+  background: none;
+}
+
+body div#wall div.parent div > #tag-7.slick {
+  background: url(../images/tag-7.png) no-repeat;
+  z-index: 1;
+  display: block;
+}
