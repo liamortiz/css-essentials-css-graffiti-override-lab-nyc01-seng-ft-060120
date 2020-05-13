@@ -1,1 +1,9 @@
 /* write your override styles here */
+#wall .tag-1 {
+  border: 10px solid red;
+  background-image: none;
+}
+
+#wall > div{
+  background-image: none;
+}
