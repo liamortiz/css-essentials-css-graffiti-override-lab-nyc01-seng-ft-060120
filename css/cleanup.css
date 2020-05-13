@@ -8,6 +8,6 @@ body #wall #tag-2{
   background-image: none;
 }
 
-body #wall #tag-3{
+body div#wall #tag-3.slick {
   background: none;
 }
